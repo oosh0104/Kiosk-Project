@@ -1,0 +1,29 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build
+/build/
+/out/
+/target/
+
+# IDE
+/.idea/
+/.vscode/
+*.iml
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node modules
+/node_modules/
+
+# Secret Files
+.env
+firebase-service-account.json
